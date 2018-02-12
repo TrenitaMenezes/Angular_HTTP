@@ -1,0 +1,140 @@
+{
+  "contacts": [
+    {
+      "gender": "male",
+      "name": {
+        "title": "mr",
+        "first": "Mason",
+        "last": "Slawa"
+      },
+      "location": {
+        "street": "2270 pierre ave",
+        "city": "cartwright",
+        "state": "newfoundland and labrador",
+        "postcode": 44036
+      },
+      "email": "mason.slawa@example.com",
+      "login": {
+        "username": "smallgorilla165",
+        "password": "packers",
+        "salt": "JXYzDogk",
+        "md5": "52e1ccc23f65fc7fba9491fbfeac4e00",
+        "sha1": "c6ad7c494ff68de9360c392d5f811dbd890a0348",
+        "sha256": "fe66e466e1c331a6231e62d87a8485df079f09e308107b807414ddcc526064ea"
+      },
+      "dob": "1983-10-01 08:55:59",
+      "registered": "2012-02-29 03:20:56",
+      "phone": "304-841-0280",
+      "cell": "922-076-5505",
+      "id": 1,
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/85.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/85.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/85.jpg"
+      },
+      "nat": "CA"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "mr",
+        "first": "Justin",
+        "last": "Baptist"
+      },
+      "location": {
+        "street": "1344 king st",
+        "city": "westport",
+        "state": "québec",
+        "postcode": 90080
+      },
+      "email": "justin.jean-baptiste@example.com",
+      "login": {
+        "username": "silverelephant149",
+        "password": "othello",
+        "salt": "014iDqey",
+        "md5": "99aea8bd09a4f9dafc06953a6968c3f2",
+        "sha1": "b044f6132cae96f0c03797d39cd88a65111767bf",
+        "sha256": "550bdc3e000a2a7590f60a0512f0da939154f46eef1b896bfab9ef4dd52cd44f"
+      },
+      "dob": "1981-09-30 12:05:10",
+      "registered": "2011-12-27 08:40:49",
+      "phone": "818-245-7446",
+      "cell": "843-291-6972",
+      "id": 2,
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/45.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/45.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/45.jpg"
+      },
+      "nat": "CA"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "ms",
+        "first": "Verena",
+        "last": "Vetter"
+      },
+      "location": {
+        "street": "6284 waldstraße",
+        "city": "schwerin",
+        "state": "niedersachsen",
+        "postcode": 96917
+      },
+      "email": "verena.vetter@example.com",
+      "login": {
+        "username": "silverladybug705",
+        "password": "dannyboy",
+        "salt": "DUjDaOJY",
+        "md5": "f4e1c91a204110505d7494131ec430df",
+        "sha1": "1168923d571ac018cef9898cf745a233421b96d9",
+        "sha256": "64684db000915a1471b013c16bb2501a848734b28af89ebc12b1fc33254ac205"
+      },
+      "dob": "1972-11-29 22:34:43",
+      "registered": "2010-08-11 17:42:38",
+      "phone": "0230-2811428",
+      "cell": "0171-3239990",
+      "id": 3,
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/39.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/39.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/39.jpg"
+      },
+      "nat": "DE"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "mr",
+        "first": "Hunter",
+        "last": "French"
+      },
+      "location": {
+        "street": "9726 arctic way",
+        "city": "Oakville",
+        "state": "Newfoundland",
+        "postcode": 33164
+      },
+      "email": "hunter.french@example.com",
+      "login": {
+        "username": "blackpeacock792",
+        "password": "joung",
+        "salt": "RCHaMRHq",
+        "md5": "36988c05529e8963ea36e7e2ec56659f",
+        "sha1": "bb9ee8fb96730dd948fc4c71cd6172564cea5676",
+        "sha256": "ac8f01f464d9a17032d2a592e37a62d0e8106ca00443f4322c9bf60bf42fb176"
+      },
+      "dob": "1989-07-14 22:31:38",
+      "registered": "2007-01-17 17:44:58",
+      "phone": "630-312-8603",
+      "cell": "370-023-2999",
+      "id": 6,
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/80.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/80.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/80.jpg"
+      },
+      "nat": "CA"
+    }
+  ]
+}
